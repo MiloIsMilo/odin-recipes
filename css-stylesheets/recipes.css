@@ -1,0 +1,35 @@
+body {
+    background-color: lightsalmon;
+}
+
+.back-to-main-page {
+    background-color: green;
+    text-align: center;
+    width: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+h1 {
+    text-align: center;
+    color: Red;
+}
+
+.main-image {
+    margin: auto;
+    display: block;
+}
+
+.go-up {
+    background-color: lightblue;
+    text-align: center;
+    width: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}

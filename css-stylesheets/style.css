@@ -1,0 +1,20 @@
+body {
+    background-color: lightsalmon;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
+.main-image {
+    width: 50%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+h2 {
+    text-align: center;
+    color: greenyellow;
+}
